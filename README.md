@@ -103,13 +103,13 @@ Quickly switch between sales and customer perspectives using built-in navigation
 
  **Sales Dashboard:**
 
-![Sales Dashboard](https://github.com/professionalman/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Sales%20Dashboard.png?raw=true)
+![Sales Dashboard](https://github.com/professionalman/Sales_and_Customer_Dashboard/blob/main/Assets/Sales%20Dashboard.png?raw=true)
 
  **Customer Dashboard:**
 
-![Customers Dashboard](https://github.com/professionalman/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customers%20Dashboard.png?raw=true)
+![Customers Dashboard](https://github.com/professionalman/Sales_and_Customer_Dashboard/blob/main/Assets/Customers%20Dashboard.png?raw=true)
 
  **Filter Pane:**
 
-![Filter Pane](https://github.com/professionalman/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Filter%20Pane.png?raw=true)
+![Filter Pane](https://github.com/professionalman/Sales_and_Customer_Dashboard/blob/main/Assets/Filter%20Pane.png?raw=true)
 
