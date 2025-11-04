@@ -8,12 +8,6 @@ The dashboards were built to help business users monitor KPIs, identify trends, 
 The data was sourced from CSV files, and relationships were created between tables in Tableau to support the analytical requirements and answer key business questions effectively.
 
 
-📍 **Tableau Public Link**
-
-🔗 https://public.tableau.com/app/profile/peter.sobhy/viz/SalesCustomerDashboards_17620486944990/SalesDashboard?publish=yes
-
-
-
 ### 🗂️ Data Preparation
 
 Imported multiple CSV files into Tableau.
@@ -109,18 +103,13 @@ Quickly switch between sales and customer perspectives using built-in navigation
 
  **Sales Dashboard:**
 
-![Sales Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Sales%20Dashboard.png?raw=true)
+![Sales Dashboard](https://github.com/professionalman/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Sales%20Dashboard.png?raw=true)
 
  **Customer Dashboard:**
 
-![Customers Dashboard](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customers%20Dashboard.png?raw=true)
+![Customers Dashboard](https://github.com/professionalman/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Customers%20Dashboard.png?raw=true)
 
  **Filter Pane:**
 
-![Filter Pane](https://github.com/Peter-Sobhy1/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Filter%20Pane.png?raw=true)
+![Filter Pane](https://github.com/professionalman/Tableau-Sales-Customers-Dashboards/blob/main/Assets/Filter%20Pane.png?raw=true)
 
-
-
-Let's stay in touch!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peter-sobhy/)
